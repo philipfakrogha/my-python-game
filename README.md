@@ -23,12 +23,6 @@ This is a fun and interactive terminal-based game that combines:
 
 ---
 
-## 🛠️ Requirements
-
-- Python 3.7 or higher
-- No external packages needed
-
----
 
 ## ▶️ How to Run
 
@@ -36,5 +30,5 @@ This is a fun and interactive terminal-based game that combines:
    ```bash
    git clone https://github.com/philipfakrogha/my-python-game.git
    cd my-python-game
-2. 👉 [Click here to download the .exe from GitHub Releases](https://github.com/philipfakrogha/my-python-game/releases/latest)
+2. 👉 [Click here to download the .exe from GitHub Releases](https://github.com/philipfakrogha/my-python-game/releases/latest) - and play in your terminal!
 
