@@ -36,4 +36,5 @@ This is a fun and interactive terminal-based game that combines:
    ```bash
    git clone https://github.com/philipfakrogha/my-python-game.git
    cd my-python-game
-2. python game.py
+2. 👉 [Click here to download the .exe from GitHub Releases](https://github.com/philipfakrogha/my-python-game/releases/latest)
+
